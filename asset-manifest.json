@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/izumi0508/izumi0508.github.io/static/css/main.ea4f7381.css",
-    "main.js": "/izumi0508/izumi0508.github.io/static/js/main.2021ab6b.js",
-    "static/js/787.28cb0dcd.chunk.js": "/izumi0508/izumi0508.github.io/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/izumi0508/izumi0508.github.io/index.html",
-    "main.ea4f7381.css.map": "/izumi0508/izumi0508.github.io/static/css/main.ea4f7381.css.map",
-    "main.2021ab6b.js.map": "/izumi0508/izumi0508.github.io/static/js/main.2021ab6b.js.map",
-    "787.28cb0dcd.chunk.js.map": "/izumi0508/izumi0508.github.io/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/static/css/main.ea4f7381.css",
+    "main.js": "/static/js/main.e734f5e0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/index.html",
+    "main.ea4f7381.css.map": "/static/css/main.ea4f7381.css.map",
+    "main.e734f5e0.js.map": "/static/js/main.e734f5e0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea4f7381.css",
-    "static/js/main.2021ab6b.js"
+    "static/js/main.e734f5e0.js"
   ]
 }
